@@ -11,10 +11,10 @@ I took advantage of the cold this week and experimented with building out a basi
 
 Here's a video of playing AC/DC. The camera I used is poor, so it is hard to see the backglass.  The backglass looks nice but the video doesn't show it well.  [video](https://photos.app.goo.gl/DMDN2ordYG7daNgK8)
 
-I order some arcade buttons for 1 player/2 player and an ipac board.  
+I ordered some cheap arcade buttons for the flippers, plunger, and player 1/2 buttons and an ipac board.  
 ![Prototype1]({{site.baseurl}}/assets/img/pinball_controls.jpg)
 
-I'm going to build a prototype out of a box first and then move to real wood (similar to what I did with the mame prototypes).  I figure that it the best time of year to experiment with a pinball machine.
+I'm going to build a prototype out of a cardboard box first and then move to real wood (similar to what I did with the mame prototypes).  I figure that it the best time of year to experiment with a pinball machine.
 
 I am thinking that for the final version, I'll probably get a monitor that is 4K for the playfield monitor and one that's dimensioned better.  It's pretty amazing how realistic you can get with it, they have electronic mercury switches for detecting tilt, plunger sensors, feedback knockers.
 
