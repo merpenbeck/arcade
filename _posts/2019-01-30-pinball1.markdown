@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Virtual Pinball Prototype 1"
+date:   2019-01-30 01:00:00 -0600
+categories: pinball
+---
+
+I took advantage of the cold this week and experimented with building out a basic visual pinball prototype with a a couple of old monitors.  It is a virtual pinball simulator that can play hundreds of pinball games.  I like pinball (not as much as classic arcade games, but I like it).
+
+![Prototype1]({{site.baseurl}}/assets/img/pinball1.jpg)
+
+Here's a video of playing AC/DC. The camera I used is poor, so it is hard to see the backglass.  The backglass looks nice but the video doesn't show it well.  [video](https://photos.app.goo.gl/DMDN2ordYG7daNgK8)
+
+I order some arcade buttons for 1 player/2 player and an ipac board.  
+![Prototype1]({{site.baseurl}}/assets/img/pinball_controls.jpg)
+
+I'm going to build a prototype out of a box first and then move to real wood (similar to what I did with the mame prototypes).  I figure that it the best time of year to experiment with a pinball machine.
+
+I am thinking that for the final version, I'll probably get a monitor that is 4K for the playfield monitor and one that's dimensioned better.  It's pretty amazing how realistic you can get with it, they have electronic mercury switches for detecting tilt, plunger sensors, feedback knockers.
+
+Here's a interesting guide on [hardware configurations](http://mjrnet.org/pinscape/BuildGuideV2/intarch.htm?fbclid=IwAR0bPpDLmdVKeUkce2fS1d5hijPVQ4XpiRaBsEhPqsiEjCrmapiXCLYsGCc).
+
+An interesting video where a guy built a Microsoft Kinect camera into the pinball machine to adjust the angle of the playfield. [Youtube video](https://www.youtube.com/watch?time_continue=6&v=4q7WSUonMzc)
