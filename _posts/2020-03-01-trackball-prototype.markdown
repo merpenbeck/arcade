@@ -21,10 +21,10 @@ Additionally, you can turn the case over after using the top for controls and us
 
 
 I am using the 3" LED trackball [Here is the LED Trackball product](https://www.amazon.com/dp/B0711TKGFV/ref=cm_sw_em_r_mt_dp_U_BydxEbAH8K21W)
-Something that they don't adverstise is that if you want the LED to light up, you need the power supply.  [Here is the power supply product](https://www.hollandcomputers.com/store/pc/3-inch-arcade-game-LED-trackball-power-supply-with-2-pin-molex-connector-p11329.htm)
+Something that they don't advertise is that if you want the LED to light up, you need the power supply.  [Here is the power supply product](https://www.hollandcomputers.com/store/pc/3-inch-arcade-game-LED-trackball-power-supply-with-2-pin-molex-connector-p11329.htm)
 
 
-The system that I'm using for this build is RetroPie.  I configured it using this [video](https://youtu.be/BN4_tm4jvXg).  It told me to do the following setup.  After completeing the configuration, the trackball still did not work at all.
+The system that I'm using for this build is RetroPie.  I configured it using this [video](https://youtu.be/BN4_tm4jvXg).  It told me to do the following setup.  After completing the configuration, the trackball still did not work at all.
 
 
 The main thing to realize is that the trackball is a mouse.  The wiring instructions for the trackball buttons.
